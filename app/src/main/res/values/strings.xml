@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Penang tourism</string>
+    <string name="penangftour">Penang Famous Tour</string>
+    <string name="checklist">See list</string>
+
+    <string name="birdpark">Bird Park</string>
+    <string name="bgarden">Bonatic Garden</string>
+    <string name="camera">Camera Museum</string>
+    <string name="chewjetty">Chew Jetty </string>
+    <string name="escape">Escape</string>
+    <string name="hill">Penang Hill</string>
+    <string name="kekloksi">Kek Lok Si</string>
+    <string name="npark">National Park</string>
+    <string name="snake">Snake Temple</string>
+    <string name="streetart">Street Art</string>
+    <string name="war">War Museum</string>
+
+    <string name="button">Details</string>
+
+    <string name="bonoticgarden">Botanical Garden(Waterfalls Gardens)</string>
+    <string name="Bonaticgardendetail">Opening hour :  Daily 05:00 ~ 20:00 \.\nAddress :   Pavilion Administrative Complex, Jalan Kebun Bunga, 10350, Penang \.\nTel :   +604 226 4401 or +604 226 4405</string>
+
+    <string name="birdPark">Penang Bird Park</string>
+    <string name="birdParkdetail">Opening hour :  Daily 09:00 ~ 19:00 \.\nAddress :   Taman Burung Seberang Jaya, Jalan Todak, Seberang Jaya, 13700, Perai, Pulau Pinang, 13700 Seberang Jaya, Penang \.\nEntrance Fee: Adult RM38 Child RM20 School child RM10 Camera RM1 Video Camera RM5 \.\nWebpage contact :   http://www.penangbirdpark.com.my/contact.php</string>
+
+    <string name="cameraMuseum">Camera Museum</string>
+    <string name="cameraMuseumdetail">Opening hour :  Daily 09:00 ~ 20:00 \.\nAddress :   49, Jalan Muntri, George Town, 10200 George Town, Pulau Pinang \.\nEntrance Fee: RM20 student/senior citizen RM10 \.\nTel :   04-26|3649</string>
+
+    <string name="chewJetty">Chew Jetty</string>
+    <string name="chewJettydetail">Opening hour :  Daily 24hours \.\nAddress :   Chew Jetty, Weld Quay, 10300 George Town, Pulau Pinang </string>
+
+    <string name="escapepenang">Penang Escape</string>
+    <string name="escapepenangdetail">Opening hour :  tuesday ~ Friday 09:00 ~ 18:00 \.\nAddress :   828, Jalan Teluk Bahang, Teluk Bahang, 11050 Teluk Bahang, Pulau Pinang \.\nPhone: +60 4 8811 106   Fax: +60 4 8813 106</string>
+
+    <string name="penanghill">Penang Hill</string>
+    <string name="penanghilldetail">Opening hour :  Daily 06:30 ~ 23:00 \.\nAddress :   Tingkat 7, Bangunan Perbadanan Bukit Bendera, Jalan Stesen Bukit Bendera, Air Itam, 11500 Pulau Pinang.\.\nEntrance Fee: Adult RM10 Senior Citizen RM5 Child RM3 Student RM5 \.\nTel : 604-8288880   Fax  : 604-8288862</string>
+
+    <string name="kekLokSi">Kek Lok Si</string>
+    <string name="kekLokSidetail">Opening hour :  Daily 07:00 ~ 17:30 \.\nAddress :   1000-L, Tingkat Lembah Ria 1, 11500 Ayer Itam, Pulau Pinang, Malaysia \.\nEntrance Fee: RM2\.\nPhone: 04 – 835 2333   Fax: 04 – 835 2330  \.\nEmail: yayasankekloksipg@gmail.com</string>
+
+    <string name="nPark">Penang National Park</string>
+    <string name="nParkdetail">Opening hour :  Daily 07:30 ~ 18:00 \.\nAddress :   Pejabat Taman Negara P. Pinang, Jalan Hassan Abbas, Balik Pulau, Pulau Pinang, 11050 Pulau Pinang, Malaysia \.\nTel: 04-881 3530 / 04-881 3500</string>
+
+    <string name="snaket">Snake Temple</string>
+    <string name="snaketdetail">Opening hour :  Daily 06:00 ~ 19:00 \.\nAddress :   Jalan Sultan Azlan Shah, Bayan Lepas Industrial Park, 11900 Bayan Lepas, Pulau Pinang, Malaysia \.\nTel: 04-881 3530 / 04-881 3500</string>
+
+    <string name="streetArt">Street Art</string>
+    <string name="streetArtdetail">Opening hour :  Daily 24hours \.\nAddress :   Georgetown Area </string>
+
+    <string name="warMuseum">War Museum</string>
+    <string name="warMuseumdetail">Opening hour :  Daily 09:00 ~ 18:00 \.\nAddress :   Jalan Batu Maung, 11960 Batu Maung, Pulau Pinang, Malaysia \.\nEntrance Fee: Tourist Adult RM30 Child RM15   Malaysian Adult RM15 Child RM7.50 \.\nTel :   +604 226 4401 or +604 226 4405</string>
+
+</resources>

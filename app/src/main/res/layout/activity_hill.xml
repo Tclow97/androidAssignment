@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#90a4ae"
+    tools:context="com.inti.student.penangtourism.hill">
+
+    <TextView
+        android:id="@+id/penanghill"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/penanghill"
+        android:textSize="25sp"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="16dp"
+        app:layout_constraintHorizontal_bias="0.094"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/penanghillpic"/>
+
+    <ImageView
+        android:id="@+id/penanghillpic"
+        android:layout_width="169dp"
+        android:layout_height="152dp"
+        app:srcCompat="@drawable/hilltwo"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@+id/penanghillpic2"
+        android:layout_marginRight="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/penanghillpic2"
+        app:layout_constraintHorizontal_bias="1.0"
+        android:layout_marginBottom="-16dp"/>
+
+    <ImageView
+        android:id="@+id/penanghillpic2"
+        android:layout_width="188dp"
+        android:layout_height="136dp"
+        app:srcCompat="@drawable/hill"
+        android:layout_marginRight="4dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="74dp"/>
+
+    <TextView
+        android:id="@+id/penanghilldetail"
+        android:layout_width="350dp"
+        android:layout_height="238dp"
+        android:text="@string/penanghilldetail"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="257dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintVertical_bias="0.0"/>
+</android.support.constraint.ConstraintLayout>
